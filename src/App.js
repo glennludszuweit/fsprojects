@@ -12,10 +12,16 @@ class App extends Component {
       searchField: '',
       projects: [
         {
-          image: require('./images/fsprojects.png'),
-          title: 'TEST',
-          url: 'http://jsprojects.org/jstradingapp/',
-          code: 'https://github.com/glennludszuweit/tradingApp-JS',
+          image: require('./images/newsblog.png'),
+          title: 'MEN Newsblog project',
+          url: 'http://newsblog.glennludszuweit.de/',
+          code: 'https://github.com/glennludszuweit/MEN-news-blog',
+        },
+        {
+          image: require('./images/devhub.png'),
+          title: 'MEN Devhub project',
+          url: 'http://devhub.glennludszuweit.de/',
+          code: 'https://github.com/glennludszuweit/MEN-dev-hub',
         },
       ],
     };
