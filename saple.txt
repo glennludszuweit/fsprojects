@@ -1,0 +1,134 @@
+projects: [
+        {
+          image: require('./images/breakout.png'),
+          title: 'Javascript Breakout Game',
+          url: 'http://jsprojects.org/breakout/',
+          code: 'https://github.com/glennludszuweit/break-out-game',
+        },
+        {
+          image: require('./images/budgetapp.jpg'),
+          title: 'Javascript Budget App',
+          url: 'http://jsprojects.org/budgetapp/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/budgetapp',
+        },
+        {
+          image: require('./images/piggame.jpg'),
+          title: 'Javascript Pig Game',
+          url: 'http://jsprojects.org/piggame/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/piggame',
+        },
+        {
+          image: require('./images/loancalculator.jpg'),
+          title: 'Javascript Loan Calculator',
+          url: 'http://jsprojects.org/loancalculator/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/loancalculator',
+        },
+        {
+          image: require('./images/dicegame.jpg'),
+          title: 'Javascript Dice Game',
+          url: 'http://jsprojects.org/dicegame/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/dicegame',
+        },
+        {
+          image: require('./images/calculator.png'),
+          title: 'Javascript Calculator',
+          url: 'http://jsprojects.org/calculator/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/calculator',
+        },
+        {
+          image: require('./images/weatherapp.jpg'),
+          title: 'React Weather App',
+          url: 'http://jsprojects.org/weatherapp/',
+          code:
+            'https://github.com/glennludszuweit/small-react-apps/tree/master/weather-app',
+        },
+        {
+          image: require('./images/monsterrolodex.jpg'),
+          title: 'React Monster Rolodex',
+          url: 'http://jsprojects.org/monsterrolodex/',
+          code:
+            'https://github.com/glennludszuweit/small-react-apps/tree/master/monster-rolodex',
+        },
+        {
+          image: require('./images/randomcolorgenerator.png'),
+          title: 'Javascript HEX Colors',
+          url: 'http://jsprojects.org/randomcolorgenerator/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/randomcolorgenerator',
+        },
+        {
+          image: require('./images/colorflipper.jpg'),
+          title: 'Javascript Color Flipper',
+          url: 'http://jsprojects.org/colorflipper/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/colorflipper',
+        },
+        {
+          image: require('./images/notemanager.jpg'),
+          title: 'Javascript Note Manager',
+          url: 'http://jsprojects.org/notemanager/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/notemanager',
+        },
+        {
+          image: require('./images/drumkit.jpg'),
+          title: 'Javascript Drum Kit',
+          url: 'http://jsprojects.org/drumkit/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/drumkit',
+        },
+        {
+          image: require('./images/simongame.jpg'),
+          title: 'Javascript Simon Game',
+          url: 'http://jsprojects.org/simongame/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/simongame',
+        },
+        {
+          image: require('./images/paperrockscissors.jpg'),
+          title: 'Javascript Paper Rock Scissors',
+          url: 'http://jsprojects.org/paperrockscissors/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/paperrockscissors',
+        },
+        {
+          image: require('./images/digitalclock.jpg'),
+          title: 'Javascript Digital Clock',
+          url: 'http://jsprojects.org/digitalclock/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/digitalclock',
+        },
+        {
+          image: require('./images/tasklists.jpg'),
+          title: 'Javascript Task Lists',
+          url: 'http://jsprojects.org/tasklists/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/tasklists',
+        },
+        {
+          image: require('./images/bookslist.jpg'),
+          title: 'Javascript Books List',
+          url: 'http://jsprojects.org/bookslist/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/bookslist',
+        },
+        {
+          image: require('./images/counter.png'),
+          title: 'Javascript Counter',
+          url: 'http://jsprojects.org/counter/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/counter',
+        },
+        {
+          image: require('./images/jsreviews.png'),
+          title: 'Javascript Reviews',
+          url: 'http://jsprojects.org/jsreviews/',
+          code:
+            'https://github.com/glennludszuweit/small-js-projects/tree/master/jsreviews',
+        },
+      ],

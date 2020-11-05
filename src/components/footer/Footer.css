@@ -1,0 +1,31 @@
+.footer {
+  background: #ececec;
+  display: flex;
+  justify-content: center;
+  min-width: 100vw;
+  position: relative;
+  bottom: 0;
+}
+
+.footer img {
+  height: 30px;
+  margin: 20px 20px 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .footer {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .footer {
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .footer {
+    margin-bottom: 5px;
+  }
+}

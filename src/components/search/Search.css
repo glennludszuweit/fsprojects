@@ -1,0 +1,23 @@
+input {
+  outline: none;
+  border: none;
+}
+
+.search-box {
+  width: 350px;
+  margin: 25px auto 0;
+}
+
+.search-box .search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 700px) {
+  .search-box {
+    width: 250px;
+    margin: 25px auto 0;
+  }
+}
